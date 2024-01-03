@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RFleet3
 - 👀 I’m interested in gaming, anime, tech!
 - 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on learning regular expressions
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me rfleet3@gmail.com
 
 <!---
